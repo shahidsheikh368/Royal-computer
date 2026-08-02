@@ -1398,6 +1398,17 @@ padding:120px 20px 40px;
 
 }
 
+.slide img{
+
+height:100vh;
+
+object-fit:contain;
+
+background:#071B35;
+
+}
+
+
 .hero-content{
 
 padding:20px;
